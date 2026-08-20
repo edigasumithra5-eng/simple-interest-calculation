@@ -1,0 +1,14 @@
+======================================
+       SIMPLE INTEREST CALCULATOR
+======================================
+
+Enter Principal Amount: 10000
+Enter Rate of Interest (%): 5
+Enter Time (years): 2
+
+----- RESULT -----
+Principal Amount : ₹10000.00
+Interest Rate    : 5.00%
+Time             : 2.00 years
+Simple Interest  : ₹1000.00
+Total Amount     : ₹11000.00
